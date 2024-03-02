@@ -1,0 +1,30 @@
+
+.bgimg{ 
+    background-color: white; 
+    background-image: url(https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3RvY2ttYXJrZXR8fHx8fHwxNjc3NDM3Mjk0&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080) ;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: scroll; 
+  } 
+
+h1{
+    font-size: 70px;
+    font-family: 'Share Tech';
+    border-bottom: 15px dotted rgb(255, 0, 0);
+    transition: all ease-in 0.5s;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+    
+  
+h1:hover{
+    color: rgba(255, 255, 255, 0.786);
+    border-bottom: 20px dotted rgb(2, 198, 28);}
+p{
+    font-size: 30px;
+    font-weight: bold;
+    width: 100%;
+}
+.home-in{
+    color: white;
+}
